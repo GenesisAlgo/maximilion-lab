@@ -25,4 +25,9 @@ This repository is the early public lab for building Maximilion step by step.
 \- Execution artifacts
 
 
+## Repository Purpose
+
+
+
+This repository is used to turn Maximilion's thinking into visible execution artifacts.
 
